@@ -15,12 +15,12 @@ export function HighlightAgenticOS() {
         <h3 className="agentic-os__title">agentic-os</h3>
         <div className="card__badges">
           <img
-            src="https://img.shields.io/github/stars/Jarroslav/agentic-os?style=flat&label=stars"
+            src="https://img.shields.io/github/stars/kinnister/agentic-os?style=flat&label=stars"
             alt="GitHub stars"
             loading="lazy"
           />
           <img
-            src="https://img.shields.io/github/license/Jarroslav/agentic-os?style=flat&label=license"
+            src="https://img.shields.io/github/license/kinnister/agentic-os?style=flat&label=license"
             alt="License: Apache-2.0"
             loading="lazy"
           />
@@ -59,7 +59,7 @@ export function HighlightAgenticOS() {
         </div>
         <div className="agentic-os__actions">
           <a
-            href="https://github.com/Jarroslav/agentic-os"
+            href="https://github.com/kinnister/agentic-os"
             target="_blank"
             rel="noopener"
             className="agentic-os__cta"
@@ -67,7 +67,7 @@ export function HighlightAgenticOS() {
             View on GitHub <span className="glyph">↗</span>
           </a>
           <a
-            href="https://jarroslav.github.io/agentic-os/setup/"
+            href="https://kinnister.github.io/agentic-os/setup/"
             target="_blank"
             rel="noopener"
             className="card__arch"
@@ -75,7 +75,7 @@ export function HighlightAgenticOS() {
             Setup guide <span className="glyph">↗</span>
           </a>
           <a
-            href="https://github.com/Jarroslav/agentic-os/blob/main/docs/PRINCIPLES.md"
+            href="https://github.com/kinnister/agentic-os/blob/main/docs/PRINCIPLES.md"
             target="_blank"
             rel="noopener"
             className="card__arch"

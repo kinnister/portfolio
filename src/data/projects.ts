@@ -15,14 +15,14 @@ export const projects: Project[] = [
     name: 'portfolio',
     oneLiner: 'This site — a React 19 + Vite SPA with a hand-built design-token system.',
     tags: ['React 19', 'Vite', 'TypeScript'],
-    repoUrl: 'https://github.com/Jarroslav/portfolio',
+    repoUrl: 'https://github.com/kinnister/portfolio',
   },
   {
     name: 'cursor-multi-agent-setup',
     oneLiner:
       'A meta-prompt that turns Cursor into a disciplined SDLC environment — rules, subagents, safety hooks generated from your codebase.',
     tags: ['Cursor', 'Agentic SDLC', 'Prompt'],
-    repoUrl: 'https://github.com/Jarroslav/cursor-multi-agent-setup',
+    repoUrl: 'https://github.com/kinnister/cursor-multi-agent-setup',
     note: 'fork',
   },
 ]
