@@ -38,7 +38,7 @@ export function Contact() {
             Upwork ↗
           </a>
           <a
-            href="https://github.com/Jarroslav"
+            href="https://github.com/kinnister"
             target="_blank"
             rel="noopener"
             className="contact__btn contact__btn--outline"
